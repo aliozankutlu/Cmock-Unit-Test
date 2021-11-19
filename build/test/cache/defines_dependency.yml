@@ -1,0 +1,9 @@
+---
+src/cmockModule.c:
+- TEST
+build/test/mocks/mock_adc.c:
+- TEST
+build/test/mocks/mock_logger.c:
+- TEST
+build/test/mocks/mock_bar.c:
+- TEST
